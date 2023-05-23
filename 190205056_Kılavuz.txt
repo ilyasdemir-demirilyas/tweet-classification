@@ -1,6 +1,0 @@
-190205056__Metin_madenciliği_projesi.ipynb  => kod dosyam .
-190205056_veri_madenciliği_sunumu.pptx   => sunum dosyam .
-
-dataset.csv   =>veri setinin işlenmemiş hali .
-ekleme2.1_temiz.csv   => veri setinin işlenmiş hali . 
-yardım_valid.csv   => modeli test ettiğin sonradan ekleme veri seti .
